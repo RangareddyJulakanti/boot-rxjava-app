@@ -1,4 +1,4 @@
-# reactiveapp
-Spring Boot App Build Using Reactive Programming
+# springboot-rxjava
+Spring Boot Application Build Using Reactive Programming
 
-This is a small app developed to understand reactive programming on Spring Boot.
+
